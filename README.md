@@ -29,8 +29,8 @@ Replace the default `filemanager.js` with the fixed version available in this re
 
 ## 👨‍💻 Maintained by: Marco Magdy 🇪🇬
 
-- 📬 Telegram: [@C4CC44](https://t.me/C4CC44)  
-- 📱 WhatsApp: [+20 122 183 3906](https://wa.me/201221833906)
+- 📬 Telegram: [@MarcoDevs](https://t.me/MarcoDevs)  
+
 
 ---
 
